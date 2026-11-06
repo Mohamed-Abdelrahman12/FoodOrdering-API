@@ -1,0 +1,12 @@
+D:\.mohamed\task-folder\FoodOrderingSolution\FoodOrdering.Domain\bin\Release\net9.0\FoodOrdering.Domain.deps.json
+D:\.mohamed\task-folder\FoodOrderingSolution\FoodOrdering.Domain\bin\Release\net9.0\FoodOrdering.Domain.dll
+D:\.mohamed\task-folder\FoodOrderingSolution\FoodOrdering.Domain\bin\Release\net9.0\FoodOrdering.Domain.pdb
+D:\.mohamed\task-folder\FoodOrderingSolution\FoodOrdering.Domain\obj\Release\net9.0\FoodOrdering.Domain.csproj.AssemblyReference.cache
+D:\.mohamed\task-folder\FoodOrderingSolution\FoodOrdering.Domain\obj\Release\net9.0\FoodOrdering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.mohamed\task-folder\FoodOrderingSolution\FoodOrdering.Domain\obj\Release\net9.0\FoodOrdering.Domain.AssemblyInfoInputs.cache
+D:\.mohamed\task-folder\FoodOrderingSolution\FoodOrdering.Domain\obj\Release\net9.0\FoodOrdering.Domain.AssemblyInfo.cs
+D:\.mohamed\task-folder\FoodOrderingSolution\FoodOrdering.Domain\obj\Release\net9.0\FoodOrdering.Domain.csproj.CoreCompileInputs.cache
+D:\.mohamed\task-folder\FoodOrderingSolution\FoodOrdering.Domain\obj\Release\net9.0\FoodOrdering.Domain.dll
+D:\.mohamed\task-folder\FoodOrderingSolution\FoodOrdering.Domain\obj\Release\net9.0\refint\FoodOrdering.Domain.dll
+D:\.mohamed\task-folder\FoodOrderingSolution\FoodOrdering.Domain\obj\Release\net9.0\FoodOrdering.Domain.pdb
+D:\.mohamed\task-folder\FoodOrderingSolution\FoodOrdering.Domain\obj\Release\net9.0\ref\FoodOrdering.Domain.dll

@@ -1,0 +1,8 @@
+wwwroot\Images\categories\0bbbb2bc-f75c-444b-a5a0-fd1cb0eaac40_Image-Me.jpeg
+wwwroot\Images\categories\24f501e8-0825-4ba2-b135-4e2f2d4a529b_Screenshot (60).png
+wwwroot\Images\categories\494fdc47-c9d6-4d90-9f98-9dc9d7968af1_Screenshot (60).png
+wwwroot\Images\Products\2e88d5c3-de10-4ed0-9699-0ab97b014632_Screenshot (26).png
+wwwroot\Images\Products\863dc016-15f0-4e4f-8293-badb0f5a5a5b_Screenshot (26).png
+wwwroot\Images\Products\98a6b468-559a-45c4-a844-0796454d8e36_prod_juices_002.jfif
+wwwroot\Images\Products\e209169d-9168-45cc-a7cc-dda0e1ac3682_Image-Me.jpeg
+wwwroot\Images\Products\e3461361-54f2-4506-aea0-b6520efdd270_prod_juices_002.jfif
